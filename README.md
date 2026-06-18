@@ -16,7 +16,6 @@ Discover the words that appear most frequently in user prompts to better underst
 
 The goals is to generate word cloud using the WordCloud package and visualize it as an image using the Matplotlib library.
 
----
 
 ### 2. Classification of ChatGPT Prompt Types
 
@@ -34,7 +33,6 @@ Prompts are categorized into major intent groups such as:
 
 The goal is to understand how users leverage ChatGPT across different categories.
 
----
 
 ### 3. Readability Levels of ChatGPT Responses
 
@@ -42,7 +40,6 @@ Response readability is evaluated using the Stats library that calculates statis
 
 The goals to measures the readability and comprehension difficulty of responses and categorize them into six levels from very easy to extremely difficult.
 
----
 
 ### 4. Prompt Length vs. Readability
 
@@ -53,7 +50,6 @@ Analyze the relationship between:
 
 The goal is to find out how length of prompts can affect the readability of responses.
 
----
 
 ### 5. The verbosity of ChatGPT responses
 
@@ -66,7 +62,6 @@ Analyze response verbosity through:
 
 This helps quantify how concise or detailed ChatGPT responses tend to be.
 
----
 
 ### 6. Effect of Extra Context on Responses
 
